@@ -1,12 +1,11 @@
-from Stack import *
+from stack import *
 
 def base_converter(dec_num, base):
-    """
-        returns an string
-        
-        covert a decimal number to 
-        any base 
+    """  
+        This function coverts a decimal number to 
+        any base.
 
+        returns an string 
     """
     digits = "0123456789ABCDEF"
     rem_stack = Stack()
