@@ -1,4 +1,4 @@
-from Stack import *
+from stack import *
 
 def is_balanced(new_string):
     stack = Stack()
