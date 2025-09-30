@@ -1,4 +1,2 @@
-#Data Structures
-# cutie 
-jkkuhhgh
-# bla bla bla 
+# Stack Abtract Data Type
+LIFO
